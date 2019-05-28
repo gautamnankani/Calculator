@@ -9,4 +9,3 @@ Eg. for inputs:-
       exit ,
 and many more
 Note:- please note that key attributes like add, subtract, lcm and entered two numbers must contain space to left and right of them as shown in above examples
-
